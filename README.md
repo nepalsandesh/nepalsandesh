@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nepalsandesh
-- 👀 I’m interested in Computation with Python...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ... https://www.facebook.com/sandesh.nepal1
+- 👋 Hi, I’m Sandesh Nepal
+- 👀 I’m interested in Computation with Python.
+- 🌱 I’m currently learning Machine Learning.
+- 📫 How to reach me -> sandeshnepal43@gmail.com
