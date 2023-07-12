@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Sandesh Nepal
+- 👋 Hi, I’m Computer Science student.
 - 👀 I’m interested in Computation with Python.
 - 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me -> sandeshnepal43@gmail.com
+- 
+- I'm open to collaborating on projects and innovative ideas.
